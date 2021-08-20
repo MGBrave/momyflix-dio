@@ -1,0 +1,153 @@
+@font-face {
+    font-family: 'quiet_meows';
+    src: url(../quiet_meows/Quiet\ Meows.ttf);
+}
+
+:root{
+    --vermelho: #ffffff;
+    --preta:#141414;
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+/*elementos base*/
+body{
+   background: var(--preta);
+   font-family: 'Arial', Times, serif;
+   color:white;
+}
+
+
+header .container{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+  
+    justify-content: space-between;
+    
+}
+
+header .logo{
+    margin-left: 5px;
+    color: var(--vermelho);
+    font-family: 'quiet_meows';
+    font-size:45px;
+}
+
+header nav a{
+    text-decoration:none;
+    color:#ffffff;
+    font-weight: bolder;
+    margin-right: 10px;
+}
+
+
+header nav a:hover{
+    color:#fcd80d;
+}
+
+/*filme principal*/
+.filme-principal{
+    font-size:16px;
+    background-image: url(../img/capa-croods.jpg);
+
+    height:380px;
+    background-size:cover;
+ 
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+
+.filme-principal .descricao{
+    margin-top: 10px;
+    font-size: 12px;
+    font-weight: bolder;
+    margin-bottom: 25px;
+    color: #000;
+}
+
+
+.filme-principal .titulo{
+    margin-top: 8%;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+
+
+.botao{
+    background-color: rgba(0,0,0,.50);
+    border:none;
+    color: white;
+    font-weight: bold;
+    padding:15px 20px;
+    margin-right: 15px;
+    font-size: 12px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+.botao:hover{
+    background-color:white;
+    color:black;
+}
+
+.botao i{
+    margin-right: 8px;
+}
+.title{
+    padding:15px 25px;
+    margin-top: 30px;
+    font-size: 13px;
+}
+
+.container{
+    margin-left: 20px;
+}
+
+.filme-principal .container{
+    width:60%;
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    padding-right:  2%;
+    padding-left :  2%;
+    display: block;
+    cursor: pointer;
+}
+
+
+.carrosel-filmes{
+    margin-top:5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
