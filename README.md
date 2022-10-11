@@ -1,7 +1,9 @@
 
-# MomsFlix <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/><img src="https://github.com/martageraldo/awesome-badges/blob/main/img/logoinskape.png" alt="css3" width="50" height="40"/>
+# MomsFlix <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/><img src="https://github.com/martageraldo/awesome-badges/blob/main/img/logoinskape.png" alt="css3" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="Jquery" width="50" height="50"/>
 <br>
 
+        
+          
 ![vscode badge](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)
 
 ![MomyFlix](https://github.com/martageraldo/momyflix-dio/blob/main/prot%C3%B3tipo.png?raw=true)
