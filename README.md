@@ -4,7 +4,7 @@
 
 ![vscode badge](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)
 
-![Cupcakeria](https://github.com/martageraldo/cupcakeria/blob/main/prot%C3%B3tipo.svg)
+![MomyFlix](https://github.com/martageraldo/momyflix-dio/blob/main/prot%C3%B3tipo.png?raw=true)
 
 
 ## <img src="https://user-images.githubusercontent.com/60014891/168324047-c0ccd0c7-3a0e-45c1-98a1-50ca64b82012.png" alt="phone" width="40"/> Contato: 
